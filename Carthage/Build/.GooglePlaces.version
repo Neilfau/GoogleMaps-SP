@@ -1,0 +1,26 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "6.2.1-beta",
+  "iOS" : [
+    {
+      "hash" : "ff75a29a10b8dde9a8db52d7245cb0b2d79626ce6393ae8d8f4fa553f7c66ff2",
+      "name" : "GooglePlaces",
+      "container" : "GooglePlaces.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "hash" : "66e96b6cf79975a86aebb2817342b32be2b2340e032087fc3b153e125170e23e",
+      "name" : "GooglePlaces",
+      "container" : "GooglePlaces.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    }
+  ]
+}

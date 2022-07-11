@@ -1,0 +1,62 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "6.2.1-beta",
+  "iOS" : [
+    {
+      "hash" : "b30dae830b03e05f360860d38b980f753939297fff0972a32e47f0ff5d995aba",
+      "name" : "GoogleMaps",
+      "container" : "GoogleMaps.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "hash" : "a5f54f3becc5a2ae4cf1abe520640547a4b3a28180ee24fdf099ba74ac1fc385",
+      "name" : "GoogleMaps",
+      "container" : "GoogleMaps.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "11dab47027e16cbf89600b7ecf0f2237e20076ebe92eed47f06cf654062ad95a",
+      "name" : "GoogleMapsBase",
+      "container" : "GoogleMapsBase.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "31e993346aaedb43e3b235cd80c957437c3950f17512a0f0635145a32ed058ff",
+      "name" : "GoogleMapsBase",
+      "container" : "GoogleMapsBase.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "hash" : "0c7811adb0fe895a3f4964d0d7d021337ca2eeb32371a82817790eef2eb85127",
+      "name" : "GoogleMapsCore",
+      "container" : "GoogleMapsCore.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "263e5c1dca0d3de33baf5a1e003b02bddd5c9dcb5eb43acda46f1863dcbbf6de",
+      "name" : "GoogleMapsCore",
+      "container" : "GoogleMapsCore.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "hash" : "6cf8dd5be5ed775c85610894727657f91a2196873eadc112efaceeb476aaa977",
+      "name" : "GoogleMapsM4B",
+      "container" : "GoogleMapsM4B.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "2d3cbb3f5940e966b688ba7e10cac86df3c3397808bb5292cce0d8bc9e8f6891",
+      "name" : "GoogleMapsM4B",
+      "container" : "GoogleMapsM4B.xcframework",
+      "identifier" : "ios-arm64"
+    }
+  ]
+}
